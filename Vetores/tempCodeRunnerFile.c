@@ -1,0 +1,1 @@
+tor[i+1]<vetor[i+2]
